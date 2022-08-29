@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import imageio
 
 import os
-from skimage.draw import draw disc
+from skimage.draw import disc
 
 import matplotlib.pyplot as plt
 import collections
